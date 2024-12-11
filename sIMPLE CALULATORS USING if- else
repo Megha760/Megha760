@@ -1,0 +1,20 @@
+num1=float(input("Enter the first number:"))
+num2=float(input("Enter the second number"))
+operation=input("Enter operation(+,-,*,/):")
+if operation =='+':
+  print("result:",num1+num2)
+elif operation=='_':
+  print("result:",num1-num2)
+elif operation=='*':
+  print("result:",num1*num2)
+elif operation=='/':
+  print("result:",num1/num2)
+elif operation =='%':
+  print("result:",num1%num2)
+elif operation=='**':
+  print("result:",num1**num2)
+else:
+    print("invalid operation")Enter the first number:10
+Enter the second nymber15
+Enter operation(+,-,*,/):*
+result: 150.0
