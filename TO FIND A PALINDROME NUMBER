@@ -10,3 +10,5 @@ if number == reverse_number:
     print(f" {number} pali")
 else:
     print(f"{number} not pali") 
+Enter a number: 151
+ 151 pali
