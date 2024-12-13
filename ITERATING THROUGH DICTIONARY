@@ -1,0 +1,6 @@
+for key,value in student.items():
+  print(key,value)
+name meghana
+age 2
+marks 100
+grade A
