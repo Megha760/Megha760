@@ -1,0 +1,2 @@
+with open("/content/kitten.jpg","rb")as file:
+  data=file.read()
